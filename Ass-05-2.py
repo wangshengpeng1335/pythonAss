@@ -17,3 +17,5 @@ f = sorted(set(e),reverse=True)
 f.remove(max(f))
 print("the max is",max(e))
 print(f)
+
+##this is Q5 test 20220426  n 2
